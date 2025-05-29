@@ -6,8 +6,8 @@ sidebar_position: 1
 
 ## Overview
 
-- [E1-Inception](./readerDoc/E1-Inception/E1-Inception.md)
+- Fundamentals of Python + DSA - https://www.udemy.com/course/complete-python-dsa-bootcamp
 
-## Namaste ReactJS hands on practice & implementation, demo projects
+## Hands on practice, execute & implementation learning
 
-- https://github.com/pravn27/namasteReactjs
+-
