@@ -1,0 +1,8 @@
+{
+  "label": "Python Documentations",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Contains complete Python documentations, references & related links."
+  }
+}
