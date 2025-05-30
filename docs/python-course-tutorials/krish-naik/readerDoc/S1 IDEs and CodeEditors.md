@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 1 - IDEs and Code Editors you can use
+# S1 - IDEs and Code Editors you can use
 
 ## Below are available IDEs to execute Python
 
