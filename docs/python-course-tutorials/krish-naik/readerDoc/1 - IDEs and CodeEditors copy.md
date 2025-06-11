@@ -17,6 +17,12 @@ sidebar_position: 1
   - Running in local machine
   - Anaconda
     - https://www.anaconda.com/
+    - What is Anaconda AI platform ?
+      - Anaconda AI Platform is a suite of tools and services provided by Anaconda, Inc. aimed at supporting data science, machine learning (ML), and artificial intelligence (AI) workflows — especially for Python users. It’s built on the widely known Anaconda Distribution, which is a popular open-source package and environment manager for scientific computing.
+      - Build, train, and deploy machine learning and AI models.
+      - Manage Python environments and dependencies.
+      - Collaborate on notebooks and AI experiments securely.
+      - Leverage GPU and cloud resources for heavy computations.
     - Anaconda Installation - https://www.anaconda.com/docs/getting-started/anaconda/install
     - Best for while working with multiple envs, packages and managing multiple envs, packages is very easy
     - Easy to maintain different versions of python for different projects

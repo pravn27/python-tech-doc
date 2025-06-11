@@ -7,6 +7,7 @@ sidebar_position: 1
 ## Overview
 
 - Fundamentals of Python + DSA - https://www.udemy.com/course/complete-python-dsa-bootcamp
+- Python course materials - https://github.com/krishnaik06/Complete-Python-Bootcamp
 
 ## Hands on practice, execute & implementation learning
 
