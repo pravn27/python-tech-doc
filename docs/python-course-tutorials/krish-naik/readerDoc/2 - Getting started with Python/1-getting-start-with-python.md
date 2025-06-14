@@ -18,6 +18,7 @@ sidebar_position: 1
     conda create -p venv python==3.12
     ```
 
+  - `venv` is name of environment
   - `venv` contains default packages, libraries, provides basic environment for basics projects inside `venv` folder
   - Activate venv environment by below cmd, so run any .py file inside your projects
     ```
@@ -28,3 +29,47 @@ sidebar_position: 1
 
 - About .ipynb file - Run python code & Markdown
   - Running cmds in code cell and executed by pressing `Shift + Enter`
+
+## Different ways of creating python Virtual Environments
+
+1. Using Python cmd, with respect to python version in your machine
+
+   - Run below python cmd
+     ```
+     python -m venv myenv
+     ```
+   - `myenv` is name of environment created
+   - How to activate environment ?
+
+     ```
+     # On Windows
+     myenv\Scripts\activate
+
+     # On macOS/Linux
+     source myenv/bin/activate
+     ```
+
+   - To deactivate environment, run below cmd
+     ```
+     deactivate
+     ```
+
+2. Using pip cmd
+
+   - Run below pip cmd
+
+     ```
+     pip install virtualenv
+     ```
+
+     ```
+     virtualenv -p python3 myenv
+     ```
+
+   - Activate by
+
+     ```
+     myenv\Scripts\activate
+     ```
+
+3. **Conda cmd (Recommended)**
