@@ -1,8 +1,0 @@
-{
-  "label": "4 - Inbuilt Data Structure in Python",
-  "position": 4,
-  "link": {
-    "type": "generated-index",
-    "description": "In this section, we will explore the inbuilt data structures available in Python. These data structures are fundamental for organizing and managing data efficiently. We will cover lists, tuples, sets, and dictionaries, discussing their properties, use cases, and how to manipulate them effectively."
-  }
-}
