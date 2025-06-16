@@ -2,12 +2,13 @@
 sidebar_position: 1
 ---
 
-# 1 - Getting started with Python
+# 1 - Getting started with Python environment
 
-## Using VS code IDE & setup Python environments & Python version
+## Using VS code IDE & setup Python environment & Python version
 
 - VS Code
 - Using Python v3.12
+- Its good practice to create Python environment, before start working any python projects
 - create python environment with conda cmd
 
   - Why its required ?
@@ -23,6 +24,10 @@ sidebar_position: 1
   - Activate venv environment by below cmd, so run any .py file inside your projects
     ```
     conda activate venv/
+    ```
+  - To deactivate conda env
+    ```
+    conda deactivate
     ```
 
 - In `test.ipynb` file, `.ipynb`extension stands for `Interactive Python Notebook`, used by Jupyter Notebooks / JupyterLab
@@ -73,3 +78,8 @@ sidebar_position: 1
      ```
 
 3. **Conda cmd (Recommended)**
+
+4. uv package manager (Need to explore more)
+   - https://docs.astral.sh/uv/
+   - https://github.com/astral-sh/uv
+   - Latest 2025, its super fast compared to others
